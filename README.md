@@ -1,4 +1,4 @@
-# Discord Activity: Getting Started Guide
+# Counter Surfers: A Discord Activity by Jordan Carnaggio
 
 This template is used in the [Building An Activity](https://discord.com/developers/docs/activities/building-an-activity) tutorial in the Discord Developer Docs.
 
